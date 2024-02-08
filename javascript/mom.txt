@@ -1,0 +1,21 @@
+jvascript syllabus
+
+
+
+
+operators (a)
+
+
+
+advance javascript
+    -hof
+    -callbacks
+    -callbacks hell
+    inversion of control
+    promises
+    promises hellpromises chaining
+    class and object
+    light weight scripting language
+
+
+    ---utf-8 encoding
