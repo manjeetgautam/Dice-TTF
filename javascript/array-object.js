@@ -85,12 +85,12 @@
 //     console.log(typeof i);
 // }
 
-let z=5;
+// let z=5;
 
-let array = [1,2,3,4,[6,7,8],5];
+// let array = [1,2,3,4,[6,7,8],5];
 
-console.log(array.indexOf(3)
-);
+// console.log(array.indexOf(3)
+// );
 // console.log(array[4]);
 
 
@@ -103,5 +103,7 @@ console.log(array.indexOf(3)
 //         // }
 //     }
 // }
+
+
 
 

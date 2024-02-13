@@ -36,7 +36,7 @@
 //         break;
 //     default:
 //         console.log("Invalid or Error")
-// }s
+// }
 
 
 let age ="27";
